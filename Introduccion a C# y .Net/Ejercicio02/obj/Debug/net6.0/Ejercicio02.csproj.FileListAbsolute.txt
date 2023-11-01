@@ -1,0 +1,14 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\bin\Debug\net6.0\Ejercicio02.exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\bin\Debug\net6.0\Ejercicio02.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\bin\Debug\net6.0\Ejercicio02.runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\bin\Debug\net6.0\Ejercicio02.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\bin\Debug\net6.0\Ejercicio02.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\refint\Ejercicio02.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\Ejercicio02.genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\PraticaDeCero\Ejercicio02\obj\Debug\net6.0\ref\Ejercicio02.dll
